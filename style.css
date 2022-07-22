@@ -1,0 +1,36 @@
+a:link{
+    
+    color:white;
+    } 
+body{background-image: url(./media/photo\ 5.jpg);
+    background-size: cover ;
+    color: black;
+    
+    /* font-family: "DejaVu Sans", Times New Roman,sans-serif ;
+    font-size-adjust: 0.6; */
+}
+
+ul{
+    list-style: square;
+}
+ol{
+    list-style-type: "\1F44D"; // thumbs up sign;
+    text-decoration: underline ;
+}
+img{
+    float: left;
+    width: 320px;
+    height: 305px;
+    border-bottom-right-radius: 50%;
+    margin: 0px 20px;
+}
+#IP{
+    margin: 50px; 
+}
+header{
+    color: rgb(30, 153, 175);
+
+}
+h1{
+    text-shadow: 3px 4px 0px rgb(26, 21, 21);
+}
